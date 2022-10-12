@@ -6,6 +6,11 @@ Loading and manipulate guides, covariates and count data from the Perturb seq fr
 pip install git+https://github.com/LucasSilvaFerreira/Perturb_Loader.git
 
 ```
-python
+Colab demo:
+Perturb_Loader.ipynb
 
+```
+```
+Use this command to install Perturb_Loader
+pip install git+https://github.com/LucasSilvaFerreira/Perturb_Loader.git
 ```
